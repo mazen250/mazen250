@@ -11,10 +11,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mazen fayez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen fayez" height="30" width="40" /></a>
-<a href="https://fb.com/mazen alahwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazen alahwani" height="30" width="40" /></a>
-<a href="https://instagram.com/mazen alahwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazen alahwani" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/codejam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codejam" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mazen-fayez-31b693152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazen fayez" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mazen.fayezmano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mazen alahwani" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mazenfayez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mazen alahwani" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codejam2238" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codejam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mazenfayez56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mazenfayez56" height="30" width="40" /></a>
 </p>
 
