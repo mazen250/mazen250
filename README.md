@@ -5,8 +5,9 @@
 - 🔭 I’m currently working on **New Portfolio Website**
 
 - 👨‍💻 All of my projects are available at My Portfolio will be available very soon!
+- also started a react native course to adapt my react skills cross mobile development
 
-- 💬 Ask me about **ReactJs - Express - MongoDB - Pstgres - Python**
+- 💬 Ask me about **ReactJs - Express - MongoDB - Postgres - Python**
 
 - 📫 How to reach me **mazenfayez56@gmail.com**
 
